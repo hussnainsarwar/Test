@@ -1,3 +1,7 @@
-<div>
-  ffff
-</div>
+import Image from "next/image";
+
+export default function Home() {
+  return (
+    <div>fdfff</div>
+  );
+}
